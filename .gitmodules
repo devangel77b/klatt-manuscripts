@@ -1,0 +1,6 @@
+[submodule "ew502-sp2020-klatt"]
+	path = ew502-sp2020-klatt
+	url = git@github.com:devangel77b/ew502-sp2020-klatt.git
+[submodule "ew495-fa2020-klatt"]
+	path = ew495-fa2020-klatt
+	url = git@github.com:devangel77b/ew495-fa2020-klatt.git
